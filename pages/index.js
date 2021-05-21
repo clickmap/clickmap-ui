@@ -11,9 +11,9 @@ export default function Home() {
         // <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <h1>ClickMap.io</h1>
-        <h1>Open source heatmap coming soon 2021</h1>
-        <a href="https://github.com/clickmap">Github Account</a>
+        <h1 className={styles.h1}>ClickMap.io</h1>
+        <h3 className={styles.h3}>Open source heatmap coming soon 2021</h3>
+        <a className={styles.a} href="https://github.com/clickmap">Github Account</a>
       </main>
       <footer className={styles.footer}>
       </footer>
