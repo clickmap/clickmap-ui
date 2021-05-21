@@ -12,6 +12,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <h1>ClickMap.io</h1>
+        <h1>Coming soon 2021</h1>
       </main>
       <footer className={styles.footer}>
       </footer>
